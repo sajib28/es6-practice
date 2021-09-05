@@ -6,6 +6,8 @@ const res = arr.filter((value, index, fullArray) => {
 
 console.log(res)
 
+//console.log(res)
+
 module.export = {
     res
 }
