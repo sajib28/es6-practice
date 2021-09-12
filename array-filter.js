@@ -8,6 +8,6 @@ console.log(res)
 
 //console.log(res)
 
-module.export = {
-    res
-}
+// module.export = {
+//     res
+// }

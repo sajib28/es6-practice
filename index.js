@@ -3,5 +3,7 @@
 // console.log(arr)
 
 const filter = require('./array-filter');
+const maplist = require('./array-map');
 
 filter.res
+maplist.map
